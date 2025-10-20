@@ -42,12 +42,12 @@ It serves as my online resume and a central hub for my work, allowing visitors t
 
 | Homepage | Projects Section |
 |-----------|------------------|
-| ![Home Page](./images/homepage.png) | ![Projects Section](./images/projects.png) |
+| ![Home Page]("C:\Users\D.Sriram\Pictures\Screenshots\Screenshot 2025-10-20 092543.png") | ![Projects Section]("C:\Users\D.Sriram\Pictures\Screenshots\Screenshot 2025-10-20 092559.png") |
 
 ---
 
 ## 🎥 Demo Video
-[🎬 Watch Portfolio Demo](https://your-video-link-here.com)
+[🎬 Watch Portfolio Demo]("C:\Users\D.Sriram\Videos\Screen Recordings")
 
 *(You can add your Google Drive or YouTube demo video link above.)*
 
