@@ -39,17 +39,11 @@ It serves as my online resume and a central hub for my work, allowing visitors t
 
 ## 📸 Screenshots
 *(Add your screenshots in the `/images` folder and update file names below)*
+![Uploading Screenshot 2025-10-20 092543.png…]()
 
-| Homepage | Projects Section |
-|-----------|------------------|
-| ![Home Page]("C:\Users\D.Sriram\Pictures\Screenshots\Screenshot 2025-10-20 092543.png") | ![Projects Section]("C:\Users\D.Sriram\Pictures\Screenshots\Screenshot 2025-10-20 092559.png") |
 
----
 
-## 🎥 Demo Video
-[🎬 Watch Portfolio Demo]("C:\Users\D.Sriram\Videos\Screen Recordings")
 
-*(You can add your Google Drive or YouTube demo video link above.)*
 
 ---
 
